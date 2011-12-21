@@ -17,6 +17,9 @@ Pepper.
 
 
 ================================================================================
-Copyright 2004-2005 Michaël Fortin.
+Author: Michaël Fortin.
+Licence: You can modify and redistribute this pepper as long as you attribute the
+         original version to me. Even better: ask me to merge your changes back
+         into the repository on GitHub!
 
 More info at: http://www.irradiated.net/?page=mailchimp-pepper
